@@ -23,7 +23,7 @@ Try any prompt instantly with the full interactive database at [antigravity.code
 3. [🎭 Character Design](#3-character-design) (17 prompts)
 4. [🍽️ Food & Culinary](#4-food-culinary) (13 prompts)
 5. [🚀 Fantasy & Sci-Fi](#5-fantasy-scifi) (15 prompts)
-6. [⚽ Sports & Action](#6-sports-action) (15 prompts)
+6. [⚽ Sports & Action](#6-sports-action) (16 prompts)
 7. [🌃 Urban Cityscapes](#7-urban-cityscapes) (12 prompts)
 8. [🏛️ Architecture & Interiors](#8-architecture-interiors) (14 prompts)
 9. [🏔️ Nature & Landscapes](#9-nature-landscapes) (12 prompts)
@@ -4902,6 +4902,74 @@ A fit woman in black athletic wear is shown in a three-panel image performing va
 ```
 
 **Source:** [Keskin](https://x.com/craftian_keskin/status/1998479213331099882)
+
+---
+
+### 6.16. Woman in Reverse Warrior Yoga Pose at Machu Picchu - Iconic Backdrop
+
+A photorealistic image of a lean, athletic woman holding a perfect reverse warrior pose on a stone terrace at Machu Picchu, Peru. Her back arm sweeps gracefully toward the ancient Incan citadel ruins below while golden-hour light rakes across the mountain mist, creating a scene of serene power against one of the world's most iconic backdrops.
+
+**Prompt:**
+
+```
+{
+  "image_prompt": {
+    "subject": {
+      "type": "athletic woman",
+      "age_range": "mid-20s to early 30s",
+      "build": "lean, toned, yoga practitioner physique",
+      "expression": "serene, focused, eyes gently closed",
+      "pose": {
+        "name": "Reverse Warrior (Viparita Virabhadrasana)",
+        "description": "Right foot forward in a deep lunge, left foot grounded and turned out 90 degrees, right arm sweeps overhead and back in a long graceful arc, left hand rests lightly on the back left thigh, torso opens and arches back, chest lifted toward the sky",
+        "alignment": "anatomically correct, weight evenly distributed, hips square to the side"
+      }
+    },
+    "hair": {
+      "color": "dark chestnut brown",
+      "style": "long, loosely braided, draped over one shoulder, a few wisps catching the breeze"
+    },
+    "outfit": {
+      "top": "deep emerald green sports bra with minimal seaming",
+      "bottom": "high-waisted charcoal gray yoga leggings with subtle texture",
+      "feet": "bare"
+    },
+    "environment": {
+      "location": "Machu Picchu, Peru — stone terrace on the upper agricultural terraces",
+      "backdrop": "iconic Incan citadel ruins with Huayna Picchu peak emerging dramatically from cloud-wrapped Andean mountains",
+      "foreground": "ancient mossy granite stones and a rolled yoga mat partially visible at frame edge",
+      "atmosphere": "thin mountain mist drifting through the valley below, soft cloud wisps at eye level",
+      "time_of_day": "golden hour — 30 minutes before sunset"
+    },
+    "lighting": {
+      "type": "warm golden-hour natural light",
+      "direction": "low angle from the right, rim-lighting the subject",
+      "quality": "soft yet directional, long shadows across the stone terrace",
+      "color_temperature": "warm amber-gold with cool blue-purple tones in the mountain shadows",
+      "secondary": "subtle diffused fill from ambient sky light on the shaded side of the body"
+    },
+    "camera": {
+      "angle": "slightly below eye level, three-quarter front view, capturing both the pose and the full Machu Picchu backdrop",
+      "lens": "85mm prime equivalent, slight shallow depth of field",
+      "depth_of_field": "subject in sharp focus, background softly rendered but recognizable",
+      "framing": "rule of thirds — subject occupies left third, citadel and mountains fill the right two-thirds"
+    },
+    "photography_style": {
+      "genre": "editorial wellness photography",
+      "mood": "powerful, spiritual, awe-inspiring, at peace",
+      "color_grade": "rich earth tones — warm highlights, deep teal shadows, vibrant greens in the terraced vegetation"
+    },
+    "render_quality": {
+      "realism": "ultra-photorealistic, indistinguishable from a professional DSLR photograph",
+      "detail_level": "extreme — individual stone texture, fabric weave, skin pores, mountain foliage",
+      "resolution": "high resolution, print-quality",
+      "no_artifacts": true
+    }
+  }
+}
+```
+
+**Source:** Community Contribution
 
 ---
 
